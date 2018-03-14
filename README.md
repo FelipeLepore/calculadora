@@ -1,2 +1,0 @@
-# calculadora
-Udemy projeto calculadora
